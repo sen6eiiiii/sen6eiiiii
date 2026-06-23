@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sen6eiiiii/sen6eiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI Engineer passionate about building intelligent systems and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+🔭 Currently building AI and machine learning projects with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning machine learning, deep learning, and data science
+
+🎯 Preparing for postgraduate study in Artificial Intelligence
+
+💡 Interested in NLP, computer vision, and AI-powered applications
+
+🚀 Focused on developing practical projects and continuously improving my technical skills
+
+📫 Connect with me through GitHub and follow my journey as I grow into an AI Engineer
+
